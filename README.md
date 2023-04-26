@@ -1,5 +1,9 @@
 # Magisk on WSA (with Google Apps)
 
+## how to run WSA on win10 22h2
+https://blog.csdn.net/weixin_42371376/article/details/129559842
+
+
 ## Features
 
 - Integrate Magisk and OpenGApps in a few clicks within minutes
